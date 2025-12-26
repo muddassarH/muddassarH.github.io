@@ -32,8 +32,9 @@ Professional portfolio showcasing backend development expertise in Python, Djang
 - 📱 Phone: +92 311 5920298
 
 ## 📍 Location
-Abbottabad, Pakistan | Available for Remote Work
+Islamabad, Pakistan | Available for Remote Work
 
 ---
 
 © 2025 Muddassar Hussain. All rights reserved.
+
