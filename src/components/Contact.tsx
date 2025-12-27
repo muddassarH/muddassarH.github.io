@@ -61,7 +61,7 @@ export function Contact() {
         <FadeIn delay={0.6}>
           <div className="pt-8 border-t border-slate-800">
             <p className="text-slate-500 text-sm">
-              Based in Abbottabad, Pakistan • Available for remote work &
+              Based in Mansehra, Pakistan • Available for remote work &
               freelance projects
             </p>
           </div>
